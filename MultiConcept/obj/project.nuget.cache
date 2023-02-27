@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkkUYI6WojmUbTjjIbL/qGVpT+Ps2+yuISBaGiCSu6nAVMgvwmmTjZnG7nBWekykr1kDPXwKLawDxRwa4+EmAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcinl\\Source\\Repos\\MultiConcept_Beta\\MultiConcept\\MultiConcept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcinl\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\marcinl\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
